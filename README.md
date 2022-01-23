@@ -1,4 +1,4 @@
-# Mosaic ML implementation 
+# Improving efficiency of CNN models (Mosaic ML implementation) 
 
 ## This paper was presented in MLDS 2022 [MLDC_Jan_2022.pdf](https://github.com/sabeesh90/MosaicML_Advanced_Optimization_Augmentations_Depthwise/files/7781640/MLDC_Jan_2022.pdf)
 [MLDS 2022_Presentation_Final.pptx](https://github.com/sabeesh90/MosaicML_Advanced_Optimization_Augmentations_Depthwise/files/7914932/MLDS.2022_Presentation_Final.pptx)
